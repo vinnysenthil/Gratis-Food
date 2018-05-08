@@ -1,0 +1,27 @@
+{
+  "description" : "Generous Brocolli Rob is giving discounts to SJSU students to valid ID. Come in for some of our tasty sandwiches and platters. ",
+  "endTime" : 1524627090000,
+  "expired" : false,
+  "imageURL" : "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Good_Food_Display_-_NCI_Visuals_Online.jpg/1024px-Good_Food_Display_-_NCI_Visuals_Online.jpg",
+  "isSJSU" : 1,
+  "location" : {
+    "longAddress" : {
+      "address" : "",
+      "city" : "",
+      "state" : "",
+      "zip" : ""
+    },
+    "shortAddress" : "683, S7th St"
+  },
+  "postTime" : "",
+  "startTime" : 1524301200000,
+  "tags" : [ {
+    "label" : "Chicken",
+    "value" : "Chicken"
+  }, {
+    "label" : "Vegetarian",
+    "value" : "Vegetarian"
+  } ],
+  "title" : "Brocolli Rob's Food Feast",
+  "user" : "Vyp6oJkokzOG2d24hPyvEUzkqfK2"
+}

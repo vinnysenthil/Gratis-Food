@@ -1,0 +1,27 @@
+{
+  "description" : "Come join us at The Patriots on July 4th. Happy Hour starts at 4.30pm. SJSU students bring your student ID for some exclusive discounts",
+  "endTime" : 1530675090000,
+  "expired" : false,
+  "imageURL" : "https://firebasestorage.googleapis.com/v0/b/gratis-test.appspot.com/o/images%2F3ad594b0-08da-453c-8ab8-da245cedd738.jpg?alt=media&token=bb024787-ce2f-40e4-ac78-60df87c8f3cf",
+  "isSJSU" : 1,
+  "location" : {
+    "longAddress" : {
+      "address" : "",
+      "city" : "",
+      "state" : "",
+      "zip" : ""
+    },
+    "shortAddress" : "The Patriots Bar"
+  },
+  "postTime" : "",
+  "startTime" : 1524301200000,
+  "tags" : [ {
+    "label" : "Chicken",
+    "value" : "Chicken"
+  }, {
+    "label" : "Vegetarian",
+    "value" : "Vegetarian"
+  } ],
+  "title" : "The Patriots 4th of July Special",
+  "user" : "Vyp6oJkokzOG2d24hPyvEUzkqfK2"
+}

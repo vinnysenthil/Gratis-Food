@@ -1,0 +1,27 @@
+{
+  "description" : "The Dining Commons will be having their monthly cooking seminar exclusively for SJSU students. This month ...",
+  "endTime" : 1524886290000,
+  "expired" : false,
+  "imageURL" : "https://firebasestorage.googleapis.com/v0/b/gratis-test.appspot.com/o/images%2Fdcff2690-0a63-4601-a54e-c0e7520ab415.jpg?alt=media&token=f54c3b14-8a8c-4060-a327-48bd0792b308",
+  "isSJSU" : 1,
+  "location" : {
+    "longAddress" : {
+      "address" : "",
+      "city" : "",
+      "state" : "",
+      "zip" : ""
+    },
+    "shortAddress" : "Dining Commons"
+  },
+  "postTime" : "",
+  "startTime" : 1524301200000,
+  "tags" : [ {
+    "label" : "Chicken",
+    "value" : "Chicken"
+  }, {
+    "label" : "Vegetarian",
+    "value" : "Vegetarian"
+  } ],
+  "title" : "Healthy Cooking @ Dining Commons",
+  "user" : "Vyp6oJkokzOG2d24hPyvEUzkqfK2"
+}

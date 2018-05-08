@@ -1,0 +1,27 @@
+{
+  "description" : "University Housing Service hosts food pantry every day all day in Campus Village B on the Second floor lobby",
+  "endTime" : 1524344400000,
+  "expired" : false,
+  "imageURL" : "https://firebasestorage.googleapis.com/v0/b/gratis-test.appspot.com/o/images%2F35783df4-b86b-41bc-9245-429c55e563e7.jpg?alt=media&token=84e7ac5c-ffbe-4261-85f5-445abda390d2",
+  "isSJSU" : 1,
+  "location" : {
+    "longAddress" : {
+      "address" : "",
+      "city" : "",
+      "state" : "",
+      "zip" : ""
+    },
+    "shortAddress" : "Campus Village B"
+  },
+  "postTime" : "",
+  "startTime" : 1524301200000,
+  "tags" : [ {
+    "label" : "Chicken",
+    "value" : "Chicken"
+  }, {
+    "label" : "Vegetarian",
+    "value" : "Vegetarian"
+  } ],
+  "title" : "Food Pantry @ University Housing Service",
+  "user" : "Vyp6oJkokzOG2d24hPyvEUzkqfK2"
+}

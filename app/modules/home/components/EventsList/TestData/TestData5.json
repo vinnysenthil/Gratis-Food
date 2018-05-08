@@ -1,0 +1,27 @@
+{
+  "description" : "The Business Success Center hosts a food pantry every day all day in the Baccardo Business Center in room 008",
+  "endTime" : 1524356400000,
+  "expired" : false,
+  "imageURL" : "https://firebasestorage.googleapis.com/v0/b/gratis-test.appspot.com/o/images%2Fd98eb8b7-1bcc-4baa-86e1-319e13d911ec.jpg?alt=media&token=1f4a69f5-03cc-4e0f-a0d5-93446dc2b208",
+  "isSJSU" : 1,
+  "location" : {
+    "longAddress" : {
+      "address" : "",
+      "city" : "",
+      "state" : "",
+      "zip" : ""
+    },
+    "shortAddress" : "BBC"
+  },
+  "postTime" : "",
+  "startTime" : 1524301200000,
+  "tags" : [ {
+    "label" : "Chicken",
+    "value" : "Chicken"
+  }, {
+    "label" : "Vegetarian",
+    "value" : "Vegetarian"
+  } ],
+  "title" : "Business Success Center",
+  "user" : "Vyp6oJkokzOG2d24hPyvEUzkqfK2"
+}

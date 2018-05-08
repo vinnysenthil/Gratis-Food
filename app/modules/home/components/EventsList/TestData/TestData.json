@@ -1,0 +1,24 @@
+{
+      "description" : "The Student Wellness Center offers a food pantry in the Wellness Lounge on the 1st floor all day everyday.",
+      "endTime" : 1524344400000,
+      "expired" : false,
+      "imageURL" : "https://firebasestorage.googleapis.com/v0/b/gratis-test.appspot.com/o/images%2F6d974da9-ee46-4f66-bcd1-e3fb26bb7049.jpg?alt=media&token=bb5ccecc-98b3-4e7a-94c4-7774c1318cb9",
+      "isSJSU" : 1,
+      "location" : {
+        "longAddress" : {
+          "address" : "One Washington Square",
+          "city" : "San Jose",
+          "state" : "California",
+          "zip" : "95192"
+        },
+        "shortAddress" : "SWC"
+      },
+      "postTime" : "",
+      "startTime" : 1524301200000,
+      "tags" : [ {
+        "className" : "Select-create-option-placeholder",
+        "label" : "Canned Goods",
+        "value" : "Canned Goods"
+      }],
+      "title" : "Food Pantry @ Student Wellness Center"
+}
